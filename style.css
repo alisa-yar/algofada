@@ -67,7 +67,7 @@ body {
 
   backdrop-filter: blur(15px);
     
-  box-sizing: border-box;
+  box-sizing: inherit;
 }
 
 .userName {
