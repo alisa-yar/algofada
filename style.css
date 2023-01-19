@@ -37,17 +37,11 @@ html {
 }
 
 body {
-    /*margin: 0;
-    padding: 0;
-    height: fit-content;
-    min-height: 100%;*/
-    
-    margin: auto;
+    margin: 0;
     padding: 0;
     height: fit-content;
     min-height: 100%;
-    width: 100%;
-    display: block;
+    
     position: center;
     box-sizing: border-box;
   
@@ -62,8 +56,8 @@ body {
   flex-direction: column;
   justify-content: space-between;
     
-  padding: 35px;
-  margin: auto;
+ margin: 10px auto;
+  padding: 10px;
   position: center;
     
   border: 1px solid rgba(255, 255, 255, .25);
