@@ -43,7 +43,7 @@ body {
     text-decoration: none;
     font-family: var(--headerFont);
     font-weight: 600;
-    font-size: 18px;
+    font-size: 20px;
     margin: 10px auto;
 }
 
@@ -56,6 +56,7 @@ body {
     font-weight: 400;
     font-size: 15px;
     weight: 90%;
+    max-width: 500px;
 }
 
 .profilePicture, .profilePicture img {
